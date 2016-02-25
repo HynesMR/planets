@@ -4,3 +4,4 @@ The two moons may be a problem for Wolfman.
 Change1
 
 This line is added to Wolfman's copy.
+We added a different line in the second copy

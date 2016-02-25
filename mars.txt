@@ -1,2 +1,6 @@
 Cold and dry, but everythings is my favorite color.
 The two moons may be a problem for Wolfman.
+
+Change1
+
+This line is added to Wolfman's copy.
